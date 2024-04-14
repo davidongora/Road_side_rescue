@@ -1,5 +1,5 @@
 {
-  "proxy": "https://ff72-41-60-235-190.ngrok-free.app/make-payment",
+ 
   "name": "rescue",
   "version": "0.1.0",
   "private": true,
